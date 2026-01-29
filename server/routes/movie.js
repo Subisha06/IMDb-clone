@@ -18,7 +18,7 @@ router.get("/movies",async(req,res)=>{
             "crime",
             "Adventure",
             "Thriller",
-            "Sci-fi",
+            "Scifi",
             "Music",
             "family",
         ];
